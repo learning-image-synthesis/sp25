@@ -1,0 +1,11 @@
+instructors:
+  - name: Jun-Yan Zhu
+    profile_pic: /_images/pp/junyan.jpg
+    webpage: https://www.cs.cmu.edu/~junyanz/
+    email: junyanz at cs.cmu.edu
+
+teaching_assistants:
+  - name: Zhixuan Liu
+    profile_pic: /_images/pp/zhixuan.jpg
+    webpage: https://ariannaliu.github.io/
+    email: zhixuan2 at andrew.cmu.edu
