@@ -18,7 +18,7 @@ and submit the source code to Gradescope. The code should be easy to run by Tas.
 **Final project (2-3 people per group)**:, students are required to build a website describing the results and
 algorithm of the final project. A final project presentation is also needed.
 
-**Course presentation (1-2 people per group)**:, students will choose one paper from the suggested
+**Course presentation (2-3 people per group)**:, students will choose one paper from the suggested
 readings and present it to the entire class (feel free to reuse the slides available online but please credit it
 accordingly). If other students have questions about the paper, the presenters need to answer questions in the Q &amp;
 A session (live) and on piazza (online).
