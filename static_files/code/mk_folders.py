@@ -11,7 +11,7 @@ import subprocess
 parser = argparse.ArgumentParser(description="Make a project folder for each student")
 parser.add_argument("--root", type=str, default="/afs/andrew.cmu.edu/course/16/726-sp25/",
                     help="Root Course Web Project Volume")
-parser.add_argument("--roster_file", type=str, default="piazza-16726_roster.csv",
+parser.add_argument("--roster_file", type=str, default="piazza-16726_roster_new_1_21.csv",
                     help="Roster file name.")
 
 def main(args):
@@ -28,6 +28,9 @@ def main(args):
             andrew_id = row['email'][:row['email'].index('@')]
             print(andrew_id)
             student_folder = www_root / andrew_id
+            if student_folder.exists():
+                print(f"Folder already exists for {andrew_id}. Skipping...")
+                continue
             subprocess.run(
                ['mkdir', '-p', str(student_folder)],
                text=True,
