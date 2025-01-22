@@ -5,9 +5,9 @@ title: "Global and Local Image Warping"
 tldr: "Applying global and local geometric transformations to an image"
 thumbnail: "/static_files/lectures/0208.png"
 links:
-    - url: "https://learning-image-synthesis.github.io/sp25/lectures/"
+    - url: "/static_files/lectures/Lecture3_global_and_local warping.pdf"
       name: pdf
-    - url: "https://learning-image-synthesis.github.io/sp25/lectures/"
+    - url: "https://canvas.cmu.edu/files/12293125/download?download_frd=1"
       name: pptx
 
 hide_from_announcments: true
