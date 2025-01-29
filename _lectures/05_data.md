@@ -5,9 +5,9 @@ title: "Data-Driven Graphics + image blending"
 tldr: "Using large-scale data to synthesize an image"
 thumbnail: "/static_files/lectures/0210.png"
 links:
-    - url: "https://learning-image-synthesis.github.io/sp25/lectures/"
+    - url: "/static_files/lectures/Lecture4_data_driven_graphics.pdf"
       name: pdf
-    - url: "https://learning-image-synthesis.github.io/sp25/lectures/"
+    - url: "https://canvas.cmu.edu/files/12327044/download?download_frd=1"
       name: pptx
 hide_from_announcments: true
 ---
