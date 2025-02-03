@@ -5,9 +5,9 @@ title: "Convolutional Network for Image Synthesis"
 tldr: Neural networks can synthesize high-quality images by leveraging prior knowledge from millions of images.
 thumbnail: "/static_files/lectures/0217.png"
 links:
-    - url: "https://learning-image-synthesis.github.io/sp25/lectures/"
+    - url: "/static_files/lectures/lecture5_CNN_image_synthesis.pdf"
       name: pdf
-    - url: "https://learning-image-synthesis.github.io/sp25/lectures/"
+    - url: "https://canvas.cmu.edu/files/12344808/download?download_frd=1"
       name: pptx
 hide_from_announcments: true
 ---
