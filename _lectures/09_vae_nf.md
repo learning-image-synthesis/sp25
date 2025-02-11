@@ -6,9 +6,9 @@ tldr: "We discuss the theory and practice of Vartional Autoencoder and Autoregre
 thumbnail: "/static_files/lectures/lecture8_teaser.png"
 hide_from_announcments: true
 links:
-    - url: "https://learning-image-synthesis.github.io/sp25/lectures/"
+    - url: "/static_files/lectures/Lecture8_generative_models (part I).pdf"
       name: pdf
-    - url: "https://learning-image-synthesis.github.io/sp25/lectures/"
+    - url: "https://canvas.cmu.edu/files/12414656/download?download_frd=1"
       name: pptx
 ---
 Reading List:
