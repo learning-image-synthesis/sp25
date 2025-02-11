@@ -19,3 +19,4 @@ Reading List:
 - [Conditional Image Generation with PixelCNN Decoders, Oord et al, 2016](https://arxiv.org/abs/1606.05328)
 - [Generating Diverse High-Fidelity Images with VQ-VAE-2, Razavi et al., 2019](https://arxiv.org/abs/1906.00446)
 - [Taming Transformers for High-Resolution Image Synthesis, Esser et al, 2021](https://arxiv.org/abs/2012.09841)
+- [How to Train Your Energy-Based Models, Song and Kingma, 2021](https://arxiv.org/abs/2101.03288)
