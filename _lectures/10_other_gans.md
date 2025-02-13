@@ -5,9 +5,9 @@ title: "Generative Models Zoo (part II)"
 tldr: "We continue our discussion of Autoregressive Models and start exploring Diffusion Models."
 hide_from_announcments: true
 links:
-    - url: "https://learning-image-synthesis.github.io/sp25/lectures/"
+    - url: "/static_files/lectures/Lecture9_generative_models (part II).pdf"
       name: pdf
-    - url: "https://learning-image-synthesis.github.io/sp25/lectures/"
+    - url: "https://canvas.cmu.edu/files/12427702/download?download_frd=1"
       name: pptx
 ---
 Reading List:
