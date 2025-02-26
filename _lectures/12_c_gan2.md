@@ -5,9 +5,9 @@ title: "Image-to-Image Translation and Conditional Generative Models (part II)"
 thumbnail: "/static_files/lectures/horse2zebra.jpg"
 hide_from_announcments: true
 links:
-    - url: "https://learning-image-synthesis.github.io/sp25/lectures/"
+    - url: "/static_files/lectures/lecture12_img2img_partII.pdf"
       name: pdf
-    - url: "https://learning-image-synthesis.github.io/sp25/lectures/"
+    - url: "https://canvas.cmu.edu/files/12502165/download?download_frd=1"
       name: pptx
 ---
 Reading List:
