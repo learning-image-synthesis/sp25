@@ -9,24 +9,22 @@ due_event:
     date: 2025-02-26T23:59:00-5:00
     description: 'Assignment #2 due'
 mathjax: true
-# winner: 
-#     - name: Max Grebinskiy
-#       link: https://www.andrew.cmu.edu/course/16-726-sp24/projects/mgrebins/proj2/
-#     - name: Zoë LaLena
-#       link: https://www.andrew.cmu.edu/course/16-726-sp24/projects/zlalena/proj2/
-# runnerup:
-#     - name: Chiyuan Fu
-#       link: https://www.andrew.cmu.edu/course/16-726-sp24/projects/chiyuanf/proj2/index.html
-#     - name: Yu-Chen Lin
-#       link: https://www.andrew.cmu.edu/course/16-726-sp24/projects/ylin7/proj2/
+winner: 
+    - name: Yinghao Zhang
+      link: https://www.andrew.cmu.edu/course/16-726-sp25/projects/yinghaoz/proj2/
+runnerup:
+    - name: Lamia Alsalloom
+      link: https://www.andrew.cmu.edu/course/16-726-sp25/projects/lalsallo/proj2/
+    - name: Harry Chi
+      link: https://www.andrew.cmu.edu/course/16-726-sp25/projects/harryc/proj2/
 hide_from_announcments: true
 ---
 
 {% include image.html url="/static_files/assignments/hw2/penguins_with_shadow2.jpg" width=800 align="center" %}
-<!-- ## Award Winners!
-We've completed the homework, grading, and voting, and the winner of our best assignment is [Riyaz Panjwani](https://www.andrew.cmu.edu/course/16-726-sp22/projects/rpanjwan/proj2/)!
+## Award Winners!
+We've completed the homework, grading, and voting, and the winner of our best assignment is [Yinghao Zhang](https://www.andrew.cmu.edu/course/16-726-sp25/projects/yinghaoz/proj2/)!
 
-Honorable Mentions go to [Tomas Cabezon Pedroso](https://www.andrew.cmu.edu/course/16-726-sp22/projects/tcabezon/proj2/) and [Harry Freeman](https://www.andrew.cmu.edu/course/16-726-sp22/projects/hfreeman/proj2/). Great work to all and check out the winning projects! -->
+Honorable Mentions go to [Lamia Alsalloom](https://www.andrew.cmu.edu/course/16-726-sp25/projects/lalsallo/proj2/) and [Harry Chi](https://www.andrew.cmu.edu/course/16-726-sp25/projects/harryc/proj2/). Great work to all and check out the winning projects!
 
 ## Background
 This project explores gradient-domain processing, a simple technique with a broad set of applications including blending, tone-mapping, and non-photorealistic rendering. For the core project, we will focus on "Poisson blending"; tone-mapping and NPR can be investigated as bells and whistles.
