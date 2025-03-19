@@ -6,9 +6,9 @@ thumbnail: "/static_files/lectures/lecture13.png"
 tldr: "Use an optimization algorithm in a learned space to achieve photo manipulation"
 hide_from_announcments: true
 links:
-    - url: "https://learning-image-synthesis.github.io/sp25/lectures/"
+    - url: "/static_files/lectures/lecture15_image_editing_optimization_partI.pdf"
       name: pdf
-    - url: "https://learning-image-synthesis.github.io/sp25/lectures/"
+    - url: "https://canvas.cmu.edu/files/12601738/download?download_frd=1"
       name: pptx
 ---
 Reading List:
