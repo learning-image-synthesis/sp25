@@ -4,9 +4,9 @@ date: 2025-03-24T9:30:00-05:00
 title: "Image Editing and Optimization (part II)"
 hide_from_announcments: true
 links:
-    - url: "https://learning-image-synthesis.github.io/sp25/"
+    - url: "/static_files/lectures/Lecture16_image_editing_optimization_part2.pdf"
       name: pdf
-    - url: "https://learning-image-synthesis.github.io/sp25/"
+    - url: "https://canvas.cmu.edu/files/12623112/download?download_frd=1"
       name: pptx
 ---
 Reading List:
