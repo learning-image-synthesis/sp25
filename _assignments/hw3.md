@@ -21,7 +21,7 @@ In this assignment, you will get hands-on experience coding and training GANs. T
 images, called a Deep Convolutional GAN (DCGAN). We will train the DCGAN to generate grumpy cats from samples of random noise.
 In the second part, we will implement a more complex GAN architecture called CycleGAN for the task of image-to-image translation (described in more detail in Part 2).
 We will train the CycleGAN to convert between different types of two kinds of cats (Grumpy and Russian Blue), and between apples and oranges.
-In both parts, you will gain experience implementing GANs by writing code for the generator, discriminator, and training loop, for each model. Code and data can be found [here](../static_files/assignments/hw3/16726_s23_hw3.zip).
+In both parts, you will gain experience implementing GANs by writing code for the generator, discriminator, and training loop, for each model. Code and data can be found [here](../static_files/assignments/hw3/16726_s25_hw3.zip).
 
 
 ## Part 1: Deep Convolutional GAN
