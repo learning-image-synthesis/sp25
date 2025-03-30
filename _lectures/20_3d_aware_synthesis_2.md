@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-04-03T16:00:00-05:00
+date: 2025-04-02T09:30:00-05:00
 title: "3D-aware Synthesis (part II)"
 thumbnail: "/static_files/lectures/EG3D.png"
 tldr: "Synthesizing an image of a certain object category from different camera viewpoints"
