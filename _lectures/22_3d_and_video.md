@@ -1,9 +1,9 @@
 ---
 type: lecture
 date: 2025-04-09T09:30:00-05:00
-title: ""
+title: "Video Synthesis and Editing (part I)"
 thumbnail: "/static_files/lectures/video_syn.png"
-tldr: "Video Synthesis and Editing"
+tldr: "Video Synthesis and Editing (part I)"
 hide_from_announcments: true
 links:
     - url: "/static_files/lectures/Lecture19_video_synthesis.pdf"
