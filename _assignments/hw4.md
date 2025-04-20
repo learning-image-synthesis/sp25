@@ -9,14 +9,13 @@ due_event:
     date: 2025-03-31T23:59:00-5:00
     description: 'Assignment #4 due'
 mathjax: true
-# runnerup:
-#     - name: Michael Mu
-#       link: https://www.andrew.cmu.edu/course/16-726-sp24/projects/mmu2/proj4/index.html
-# winner:
-#     - name: Jing Gao
-#       link: https://www.andrew.cmu.edu/course/16-726-sp24/projects/jinggao2/proj4/index.html
-#     - name: Ming Chong Lim
-#       link: https://www.andrew.cmu.edu/course/16-726-sp24/projects/mingchol/proj4/index.html
+winner:
+    - name: Taru Rustagi
+      link: https://www.andrew.cmu.edu/course/16-726-sp25/projects/trustagi/proj4/
+runnerup:
+    - name: Liting Wen
+      link: https://www.andrew.cmu.edu/course/16-726-sp25/projects/litingw/proj4/
+      
 
 hide_from_announcments: true
 ---
@@ -24,6 +23,11 @@ hide_from_announcments: true
 
 {% include image.html url="/static_files/assignments/hw4/teaser.png" %}
 Content image (left): [Fallingwater](https://fallingwater.org/), place of interest near Pittsburgh. Style image (middle): the art [Self-Portrait with Thorn Necklace and Hummingbird](https://www.fridakahlo.org/self-portrait-with-thorn-necklace-and-hummingbird.jsp) by [Frida Kahlo](https://www.fridakahlo.org/frida-kahlo-biography.jsp) Output (right): Frida-Kahlo-ized Fallingwater. 
+
+## Award Winners!
+We've completed the homework, grading, and voting, and the winner of our best assignment is [Taru Rustagi](https://www.andrew.cmu.edu/course/16-726-sp25/projects/trustagi/proj4/)!
+
+Honorable Mentions go to [Liting Wen](https://www.andrew.cmu.edu/course/16-726-sp25/projects/litingw/proj4/). Great work to all and check out the winning projects!
 
 ## Introduction
 In this assignment, you will implement neural style transfer which resembles specific content in a certain artistic style. For example, generate cat images in Ukiyo-e style. The algorithm takes in a content image, a style image, and another input image. The input image is optimized to match the previous two target images in content and style distance space.

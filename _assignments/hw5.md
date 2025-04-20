@@ -8,16 +8,18 @@ due_event:
     type: due
     date: 2025-04-14T23:59:00-5:00
     description: 'Assignment #5 due'
-# runnerup:
-#     - name: Michael Mu
-#       link: https://www.andrew.cmu.edu/course/16-726-sp24/projects/mmu2/proj5/index.html
-#     - name: Benran Hu
-#       link: https://www.andrew.cmu.edu/course/16-726-sp24/projects/benranh/proj5/index.html
-#     - name: Ming Chong Lim
-#       link: https://www.andrew.cmu.edu/course/16-726-sp24/projects/mingchol/proj5/index.html
-# winner:
-#     - name: Jing Gao
-#       link: https://www.andrew.cmu.edu/course/16-726-sp24/projects/jinggao2/proj5/index.html
+winner:
+    - name: Harry Chi
+      link: https://www.andrew.cmu.edu/course/16-726-sp25/projects/harryc/proj5/
+runnerup:
+    - name: Lamia Alsalloom
+      link: https://www.andrew.cmu.edu/course/16-726-sp25/projects/lalsallo/proj5/
+    - name: Flora Chen
+      link: https://www.andrew.cmu.edu/course/16-726-sp25/projects/florac/proj5/
+    - name: Keling Yao
+      link: https://www.andrew.cmu.edu/course/16-726-sp25/projects/kennyy/proj5/
+      
+      
 
 mathjax: true
 hide_from_announcments: true
@@ -32,6 +34,12 @@ $$
 
 {% include image.html url="/static_files/assignments/hw5/teaser.gif" %}
 An example of grumpy cat outputs generated from sketch inputs using this assignment's output.
+
+## Award Winners!
+We've completed the homework, grading, and voting, and the winner of our best assignment is [Harry Chi](https://www.andrew.cmu.edu/course/16-726-sp25/projects/harryc/proj5/)!
+
+Honorable Mentions go to [Lamia Alsalloom](https://www.andrew.cmu.edu/course/16-726-sp25/projects/lalsallo/proj5/), [Flora Chen](https://www.andrew.cmu.edu/course/16-726-sp25/projects/florac/proj5/), and [Keling Yao](https://www.andrew.cmu.edu/course/16-726-sp25/projects/kennyy/proj5/). Great work to all and check out the winning projects!
+
 
 ## Introduction
 In this assignment, you will implement a few different techniques that require you to manipulate images on the manifold of natural images. First, we will invert a pre-trained generator to find a latent variable that closely reconstructs the given real image. In the second part of the assignment, we will take a hand-drawn sketch and generate an image that fits the sketch accordingly. Finally, we will generate images based on an input image and a prompt using stable diffusion.
